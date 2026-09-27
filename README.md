@@ -34,8 +34,10 @@ Conhecimentos complementares em JMeter e atuação em ambientes de validação c
 
 **Ferramentas de IA**
 
-![Lovable](https://img.shields.io/badge/Lovable-252B37?style=flat)
-![Codex](https://img.shields.io/badge/Codex-252B37?style=flat)
+![Lovable](https://img.shields.io/badge/Lovable-252B37?style=flat&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48cGF0aCBmaWxsPSIjRjU4QUFBIiBkPSJNMTIgMjIgMi41IDEyLjVDLTQgNSA2LTIgMTIgNWM2LTcgMTYgMCA5LjUgNy41WiIvPjwvc3ZnPg%3D%3D)
+![Codex](https://img.shields.io/badge/Codex-252B37?style=flat&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiM2RUU3QjciIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGQ9Im03IDUtNiA3IDYgN20xMC0xNCA2IDctNiA3bS0zLTE3LTQgMjAiLz48L3N2Zz4%3D)
+![Copilot](https://img.shields.io/badge/Copilot-252B37?style=flat&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IiM3Q0I1RkYiIHN0cm9rZS13aWR0aD0iMS43Ij48cmVjdCB4PSIxIiB5PSI3IiB3aWR0aD0iMjIiIGhlaWdodD0iMTUiIHJ4PSI1Ii8%2BPHBhdGggZD0iTTEyIDdWNCIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMiIgcj0iMS4zIi8%2BPC9nPjxnIGZpbGw9IiM3Q0I1RkYiPjxjaXJjbGUgY3g9IjciIGN5PSIxNCIgcj0iMiIvPjxjaXJjbGUgY3g9IjE3IiBjeT0iMTQiIHI9IjIiLz48L2c%2BPC9zdmc%2B)
+![Claude](https://img.shields.io/badge/Claude-252B37?style=flat&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48cGF0aCBkPSJNMTYuMCwxMi4wTDIzLjAsMTIuMCBNMTUuNSwxNC4wTDIxLjUsMTcuNSBNMTQuMCwxNS41TDE3LjUsMjEuNSBNMTIuMCwxNi4wTDEyLjAsMjMuMCBNMTAuMCwxNS41TDYuNSwyMS41IE04LjUsMTQuMEwyLjUsMTcuNSBNOC4wLDEyLjBMMS4wLDEyLjAgTTguNSwxMC4wTDIuNSw2LjUgTTEwLjAsOC41TDYuNSwyLjUgTTEyLjAsOC4wTDEyLjAsMS4wIE0xNC4wLDguNUwxNy41LDIuNSBNMTUuNSwxMC4wTDIxLjUsNi41IiBzdHJva2U9IiNFQ0ExN0QiIHN0cm9rZS13aWR0aD0iMiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjQiIGZpbGw9IiNFQ0ExN0QiLz48L3N2Zz4%3D)
 
 ## Contatos
 
@@ -65,3 +67,4 @@ O cartão depende do serviço externo GitHub Readme Stats.
 [![Estatísticas públicas de Niaghil no GitHub](https://github-readme-stats.vercel.app/api?username=Niaghil&show_icons=true&hide_rank=true&theme=transparent&locale=pt-br)](https://github.com/Niaghil)
 
 -->
+
